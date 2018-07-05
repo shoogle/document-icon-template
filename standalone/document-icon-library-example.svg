@@ -1,0 +1,12 @@
+<svg width="512" height="512" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <image width="512" height="512" xlink:href="document-icon-background-page.svg" />
+  <!-- BEGIN CONTENT -->
+  <text x="254.23438" y="243.75" style="font-size:64px;text-align:center;text-anchor:middle;font-family:sans-serif;fill:red">
+    <tspan x="254.23438" y="243.75">YOUR</tspan>
+    <tspan x="254.23438" y="323.75">CONTENT</tspan>
+    <tspan x="254.23438" y="403.75">HERE</tspan>
+  </text>
+  <!-- END CONTENT -->
+  <image width="512" height="512" xlink:href="document-icon-foreground-curl-shadow.svg" />
+</svg>
+
